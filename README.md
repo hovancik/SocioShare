@@ -40,7 +40,7 @@ Once you've made your great commits:
 That's it!
 
 ###Support
-For support contact [Jan Hovancik](https://twitter.com/) on Twitter.
+For support contact [Jan Hovancik](https://twitter.com/JanHovancik) on Twitter.
 
 ##License
 
